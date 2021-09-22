@@ -1,4 +1,5 @@
 # Animated Responsive Skill bar
+- I created using just HTML and CSS
 - Responsive
 - no frameworks or complex javascript or external dependencies
 - Animates on page reload
