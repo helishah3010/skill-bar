@@ -1,8 +1,11 @@
-# skill-bar
-I have created this animated skill bar that uses just simple css animation.
-
+# Animated Responsive Skill bar
 - Responsive
-- no frameworks or complex javascript
+- no frameworks or complex javascript or external dependencies
 - Animates on page reload
 
-You can just clone the repo and place it anywhere on your website layout
+# DEMO
+![Skill bar Demo](skillbar-demo.gif)
+
+
+
+You can just clone the repo and place the code anywhere on your website layout
